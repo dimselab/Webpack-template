@@ -9,6 +9,12 @@ These instructions will get you a copy of the project up and running on your loc
 You neet a recent installation of Node on your computer
 
 ### Installing
+You can either download this project or clone it from github: yo ucan use this command to clone it and give it a new name
+(replace "fancy project" with your own name...)
+```console
+git clone https://github.com/dimselab/Webpack-template new-fancy-project-based-on-the-webpack-template
+```
+
 install all dependencies (node modules)
 ```console
 npm install
