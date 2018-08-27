@@ -6,7 +6,7 @@ This includes a simple webpack configuration including TypeScript and SCSS trans
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-You neet a recent installation of Node on your computer
+You neet a recent installation of Node on your computer... and git if you want to clone the project
 
 ### Installing
 You can either download this project or clone it from github: yo ucan use this command to clone it and give it a new name
