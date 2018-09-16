@@ -3,10 +3,10 @@ interface Person {
     lastName: string;
 }
 
-function greeter(person: Person) {
+function greeter(person: Person): string {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
-let user = { firstName: "John", lastName: "Doe" };
+let user: Person = { firstName: "John", lastName: "Doe" };
 
-let element = <HTMLInputElement> document.getElementById("content");
+let element = <HTMLDivElement> document.getElementById("content");
 element.innerHTML = greeter(user);
