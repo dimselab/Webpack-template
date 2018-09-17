@@ -8,5 +8,5 @@ function greeter(person: Person): string {
 }
 let user: Person = { firstName: "John", lastName: "Doe" };
 
-let element = <HTMLDivElement> document.getElementById("content");
+let element: HTMLDivElement = <HTMLDivElement> document.getElementById("content");
 element.innerHTML = greeter(user);
