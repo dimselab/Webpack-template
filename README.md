@@ -15,7 +15,7 @@ You can either download this project or clone it from github: yo ucan use this c
 git clone https://github.com/dimselab/Webpack-template new-fancy-project-based-on-the-webpack-template
 ```
 
-install all dependencies (node modules)
+move into your newly created folder and install all dependencies (node modules)
 ```console
 npm install
 ```
